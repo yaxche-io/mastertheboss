@@ -10,9 +10,10 @@ Notes to Run using Java 1.8 - 2025 Dec 12
 -------------------
 1 - Changed java source, target to 1.8
 2 - Upgraded to version 3.3.2
+```
         <artifactId>maven-war-plugin</artifactId>
             <version>3.3.2</version>
-
+```
 
 System requirements
 -------------------
